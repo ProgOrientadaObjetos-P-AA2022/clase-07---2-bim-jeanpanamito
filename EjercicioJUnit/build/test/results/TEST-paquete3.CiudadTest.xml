@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" ?>
-<testsuite errors="0" failures="0" hostname="DESKTOP-CM1P64P" name="paquete1.EstudianteTest" skipped="0" tests="8" time="0.197" timestamp="2022-07-22T16:20:46">
+<testsuite errors="1" failures="0" hostname="DESKTOP-CM1P64P" name="paquete3.CiudadTest" skipped="0" tests="5" time="0.13" timestamp="2022-07-22T16:44:55">
   <properties>
     <property name="libs.spring-framework300.classpath" value="C:\Program Files\NetBeans-12.0\netbeans\platform\modules\org-apache-commons-logging.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\cglib-2.2.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-aop-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-aspects-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-beans-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-context-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-context-support-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-core-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-expression-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-instrument-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-instrument-tomcat-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-jdbc-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-jms-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-orm-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-oxm-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-struts-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-test-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-tx-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-web-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-webmvc-3.2.18.RELEASE.jar;C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\spring-3.0\spring-webmvc-portlet-3.2.18.RELEASE.jar" />
     <property name="javac.test.classpath" value=":build/classes:C:\Program Files\NetBeans-12.0\netbeans\platform\modules\ext\junit-4.12.jar:C:\Program Files\NetBeans-12.0\netbeans\platform\modules\ext\hamcrest-core-1.3.jar" />
@@ -17,7 +17,7 @@
     <property name="libs.eclipselink.javadoc" value="C:\Program Files\NetBeans-12.0\netbeans\java\modules\ext\docs\javax.persistence-2.1.0-doc.zip" />
     <property name="libs.JWSAntTasks.javadoc" value="" />
     <property name="sun.boot.library.path" value="C:\Program Files\Eclipse Foundation\jdk-11.0.12.7-hotspot\bin" />
-    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner paquete1.EstudianteTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\PERSONAL\Desktop\UTPL\programacio orientada a objetos\segundo bimestre\clase-07---2-bim-jeanpanamito\EjercicioJUnit\build\test\results\TEST-paquete1.EstudianteTest.xml crashfile=C:\Users\PERSONAL\Desktop\UTPL\programacio orientada a objetos\segundo bimestre\clase-07---2-bim-jeanpanamito\EjercicioJUnit\build\junitvmwatcher9667549230605769581.properties propsfile=C:\Users\PERSONAL\Desktop\UTPL\programacio orientada a objetos\segundo bimestre\clase-07---2-bim-jeanpanamito\EjercicioJUnit\build\junit5268768086318242047.properties" />
+    <property name="sun.java.command" value="org.apache.tools.ant.taskdefs.optional.junit.JUnitTestRunner paquete3.CiudadTest skipNonTests=false filtertrace=true haltOnError=false haltOnFailure=false showoutput=true outputtoformatters=true logfailedtests=true threadid=0 logtestlistenerevents=true formatter=org.apache.tools.ant.taskdefs.optional.junit.BriefJUnitResultFormatter formatter=org.apache.tools.ant.taskdefs.optional.junit.XMLJUnitResultFormatter,C:\Users\PERSONAL\Desktop\UTPL\programacio orientada a objetos\segundo bimestre\clase-07---2-bim-jeanpanamito\EjercicioJUnit\build\test\results\TEST-paquete3.CiudadTest.xml crashfile=C:\Users\PERSONAL\Desktop\UTPL\programacio orientada a objetos\segundo bimestre\clase-07---2-bim-jeanpanamito\EjercicioJUnit\build\junitvmwatcher17199660039639148624.properties propsfile=C:\Users\PERSONAL\Desktop\UTPL\programacio orientada a objetos\segundo bimestre\clase-07---2-bim-jeanpanamito\EjercicioJUnit\build\junit8596926724236539377.properties" />
     <property name="jdk.debug" value="release" />
     <property name="libs.spring-framework300.src" value="" />
     <property name="javadoc.use" value="true" />
@@ -61,7 +61,7 @@
     <property name="compile.on.save" value="true" />
     <property name="libs.testng.maven-pom" value="" />
     <property name="org.openide.version" value="deprecated" />
-    <property name="test.includes" value="paquete1/EstudianteTest.java" />
+    <property name="test.includes" value="paquete3/CiudadTest.java" />
     <property name="run.classpath" value=":build/classes" />
     <property name="libs.jaxb.src" value="" />
     <property name="sun.awt.enableExtraMouseButtons" value="true" />
@@ -188,7 +188,7 @@
     <property name="libs.jsp-compilation-syscp.classpath" value="C:\Program Files\NetBeans-12.0\netbeans\extide\ant\lib\ant.jar;C:\Program Files\NetBeans-12.0\netbeans\enterprise\modules\ext\servlet3.1-jsp2.3-api.jar;C:\Program Files\NetBeans-12.0\netbeans\enterprise\modules\ext\glassfish-jspparser-4.0.jar;C:\Program Files\NetBeans-12.0\netbeans\enterprise\modules\ext\jstl-impl.jar;C:\Program Files\NetBeans-12.0\netbeans\enterprise\modules\ext\jsf-2_2\javax.faces.jar" />
     <property name="libs.jsp-compilation.classpath" value="C:\Program Files\NetBeans-12.0\netbeans\extide\ant\lib\ant.jar;C:\Program Files\NetBeans-12.0\netbeans\enterprise\modules\ext\servlet3.1-jsp2.3-api.jar;C:\Program Files\NetBeans-12.0\netbeans\enterprise\modules\ext\glassfish-jspparser-4.0.jar;C:\Program Files\NetBeans-12.0\netbeans\enterprise\modules\ext\jsf-2_2\javax.faces.jar;C:\Program Files\NetBeans-12.0\netbeans\enterprise\modules\ext\jstl-api.jar;C:\Program Files\NetBeans-12.0\netbeans\extide\ant\lib\ant-launcher.jar" />
     <property name="libs.javaee-api-6.0.classpath" value="C:\Program Files\NetBeans-12.0\netbeans\enterprise\modules\ext\javaee-api-6.0.jar" />
-    <property name="javac.includesfile.binary" value="C:\Users\PERSONAL\Desktop\UTPL\programacio orientada a objetos\segundo bimestre\clase-07---2-bim-jeanpanamito\EjercicioJUnit\null393183071" />
+    <property name="javac.includesfile.binary" value="C:\Users\PERSONAL\Desktop\UTPL\programacio orientada a objetos\segundo bimestre\clase-07---2-bim-jeanpanamito\EjercicioJUnit\null1819677642" />
     <property name="libs.javaee-api-7.0.classpath" value="C:\Program Files\NetBeans-12.0\netbeans\enterprise\modules\ext\javaee-api-7.0.jar" />
     <property name="sun.cpu.isalist" value="amd64" />
     <property name="libs.restapi.maven-pom" value="" />
@@ -300,7 +300,7 @@
     <property name="netbeans.autoupdate.version" value="1.23" />
     <property name="empty.dir" value="C:\Users\PERSONAL\Desktop\UTPL\programacio orientada a objetos\segundo bimestre\clase-07---2-bim-jeanpanamito\EjercicioJUnit\build\empty" />
     <property name="netbeans.user" value="C:\Users\PERSONAL\AppData\Roaming\NetBeans\12.0" />
-    <property name="javac.includes.binary" value="C:\Users\PERSONAL\Desktop\UTPL\programacio orientada a objetos\segundo bimestre\clase-07---2-bim-jeanpanamito\EjercicioJUnit\build\test\classes\paquete1\EstudianteTest.class" />
+    <property name="javac.includes.binary" value="C:\Users\PERSONAL\Desktop\UTPL\programacio orientada a objetos\segundo bimestre\clase-07---2-bim-jeanpanamito\EjercicioJUnit\build\test\classes\paquete3\CiudadTest.class" />
     <property name="file.separator" value="\" />
     <property name="line.separator" value="&#xd;&#xa;" />
     <property name="javadoc.additionalparam" value="" />
@@ -338,7 +338,7 @@
     <property name="libs.spring-framework500.src" value="" />
     <property name="user.properties.file" value="C:\Users\PERSONAL\AppData\Roaming\NetBeans\12.0\build.properties" />
     <property name="libs.javaee-api-6.0.src" value="" />
-    <property name="javac.includes" value="paquete1/EstudianteTest.java" />
+    <property name="javac.includes" value="paquete3/CiudadTest.java" />
     <property name="netbeans.autoupdate.country" value="EC" />
     <property name="java.class.path" value="C:\Users\PERSONAL\Desktop\UTPL\programacio orientada a objetos\segundo bimestre\clase-07---2-bim-jeanpanamito\EjercicioJUnit\build\classes;C:\Program Files\NetBeans-12.0\netbeans\platform\modules\ext\junit-4.12.jar;C:\Program Files\NetBeans-12.0\netbeans\platform\modules\ext\hamcrest-core-1.3.jar;C:\Users\PERSONAL\Desktop\UTPL\programacio orientada a objetos\segundo bimestre\clase-07---2-bim-jeanpanamito\EjercicioJUnit\build\test\classes;C:\Program Files\NetBeans-12.0\netbeans\extide\ant\lib\ant-launcher.jar;C:\Program Files\NetBeans-12.0\netbeans\extide\ant\lib\ant.jar;C:\Program Files\NetBeans-12.0\netbeans\extide\ant\lib\ant-junit.jar;C:\Program Files\NetBeans-12.0\netbeans\extide\ant\lib\ant-junit4.jar" />
     <property name="libs.javaee-web-api-6.0.maven-pom" value="" />
@@ -383,28 +383,30 @@
     <property name="java.vm.version" value="11.0.12+7" />
     <property name="libs.metro.javadoc" value="C:\Program Files\NetBeans-12.0\netbeans\enterprise\docs\webservices-api-javadoc.jar;C:\Program Files\NetBeans-12.0\netbeans\enterprise\docs\webservices-extra-javadoc.jar;C:\Program Files\NetBeans-12.0\netbeans\enterprise\docs\webservices-extra-api-javadoc.jar;C:\Program Files\NetBeans-12.0\netbeans\enterprise\docs\webservices-rt-javadoc.jar;C:\Program Files\NetBeans-12.0\netbeans\enterprise\docs\webservices-tools-javadoc.jar" />
     <property name="sun.awt.datatransfer.timeout" value="1000" />
-    <property name="test.class" value="paquete1.EstudianteTest" />
+    <property name="test.class" value="paquete3.CiudadTest" />
     <property name="libs.javaee-web-api-7.0.src" value="" />
     <property name="libs.jsp-compiler.classpath" value="C:\Program Files\NetBeans-12.0\netbeans\enterprise\ant\extra\jspcompile.jar" />
     <property name="junit.forkmode" value="perTest" />
     <property name="annotation.processing.run.all.processors" value="true" />
   </properties>
-  <testcase classname="paquete1.EstudianteTest" name="testObtenerIdentificacionEstudiante" time="0.004" />
-  <testcase classname="paquete1.EstudianteTest" name="testObtenerApellidoEstudiante" time="0.0" />
-  <testcase classname="paquete1.EstudianteTest" name="testEstablecerIdentificacionEstudiante" time="0.001" />
-  <testcase classname="paquete1.EstudianteTest" name="testEstablecerNombresEstudiante" time="0.0" />
-  <testcase classname="paquete1.EstudianteTest" name="testObtenerEdadEstudiante" time="0.0" />
-  <testcase classname="paquete1.EstudianteTest" name="testEstablecerEdadEstudiante" time="0.001" />
-  <testcase classname="paquete1.EstudianteTest" name="testObtenerNombresEstudiante" time="0.0" />
-  <testcase classname="paquete1.EstudianteTest" name="testEstablecerApellidoEstudiante" time="0.004" />
-  <system-out><![CDATA[obtenerIdentificacionEstudiante
-obtenerApellidoEstudiante
-establecerIdentificacionEstudiante
-establecerNombresEstudiante
-obtenerEdadEstudiante
-establecerEdadEstudiante
-obtenerNombresEstudiante
-establecerApellidoEstudiante
+  <testcase classname="paquete3.CiudadTest" name="testObtenerPoblacion" time="0.0" />
+  <testcase classname="paquete3.CiudadTest" name="testEstablecerPoblacion" time="0.0" />
+  <testcase classname="paquete3.CiudadTest" name="testToString" time="0.0" />
+  <testcase classname="paquete3.CiudadTest" name="testObtenerNombres" time="0.0" />
+  <testcase classname="paquete3.CiudadTest" name="testEstablecerNombres" time="0.0">
+    <error message="nombre" type="java.lang.NoSuchFieldException">java.lang.NoSuchFieldException: nombre
+	at java.base/java.lang.Class.getDeclaredField(Class.java:2411)
+	at paquete3.CiudadTest.testEstablecerNombres(CiudadTest.java:49)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+</error>
+  </testcase>
+  <system-out><![CDATA[obtenerPoblacion
+establecerPoblacion
+toString
+obtenerNombre
+establecerNombre
 ]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
